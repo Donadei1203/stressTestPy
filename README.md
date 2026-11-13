@@ -75,4 +75,4 @@ python test_estress.py
 python test_estressweb.py
 ```
 
-## Observação: test_estress.py analisa o tempo em ms que a requisição da API é respondida, enquanto o test_estressweb.py analisa o tempo em ms que a página da API carrega
+### Observação: test_estress.py analisa o tempo em ms que a requisição da API é respondida, enquanto o test_estressweb.py analisa o tempo em ms que a página da API carrega
