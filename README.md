@@ -34,7 +34,7 @@ O repositório contempla três abordagens distintas de teste:
 
 ```bash
 git clone https://github.com/Donadei1203/stressTestPy
-cd seu-repositorio
+cd stressTestPy
 ```
 
 
