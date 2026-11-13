@@ -33,7 +33,7 @@ O repositório contempla três abordagens distintas de teste:
 ### 1. Clonar o repositório
 
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+git clone [(https://github.com/Donadei1203/stressTestPy)]
 cd seu-repositorio
 ```
 
